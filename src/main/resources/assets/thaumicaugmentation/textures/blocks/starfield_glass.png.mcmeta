@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "thaumicaugmentation:blocks/starfield_glass_ctm"
+        ],
+        "extra":{
+            "ignore_states": false,
+            "connect_inside": true
+        }
+    }
+}

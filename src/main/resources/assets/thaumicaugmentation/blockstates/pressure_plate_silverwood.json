@@ -1,0 +1,21 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "texture": "thaumicaugmentation:blocks/plank_silverwood_pressure_plate"
+        }
+    },
+    "variants": {
+        "powered": {
+            "true": {
+                "model": "minecraft:pressure_plate_down"
+            },
+            "false": {
+                "model": "minecraft:pressure_plate_up"
+            }
+        },
+        "inventory": {
+            "model": "minecraft:pressure_plate_up"
+        }
+    }
+}

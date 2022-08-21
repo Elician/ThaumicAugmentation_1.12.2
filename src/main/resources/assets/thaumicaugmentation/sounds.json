@@ -1,0 +1,247 @@
+{
+    "e_ambience": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:ambient/e_amb1",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:ambient/e_amb2",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:ambient/e_amb3",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:ambient/e_amb4",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:ambient/e_amb5",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:ambient/e_amb6",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:ambient/e_amb7",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:ambient/e_amb8",
+                "subtitle": "thaumicaugmentation.subtitle.spooky",
+                "stream": false
+            }
+        ]
+    },
+    "e_music": {
+        "category": "weather",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:ambient/e_loop",
+                "subtitle": "thaumicaugmentation.subtitle.spooky_wind",
+                "stream": false
+            }
+        ]
+    },
+    "rift_energy_zap": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumcraft:runicshieldcharge",
+                "subtitle": "thaumicaugmentation.subtitle.rift_energy_zap",
+                "stream": false
+            }
+        ]
+    },
+    "focus_water_impact": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:foci/water1",
+                "subtitle": "thaumicaugmentation.subtitle.focus_water_impact",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:foci/water2",
+                "subtitle": "thaumicaugmentation.subtitle.focus_water_impact",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:foci/water3",
+                "subtitle": "thaumicaugmentation.subtitle.focus_water_impact",
+                "stream": false
+            }
+        ]
+    },
+    "rift_mover_input_loop": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:block/rift_mover_input_loop",
+                "subtitle": "thaumicaugmentation.subtitle.rift_mover_input_loop",
+                "stream": false
+            }
+        ]
+    },
+    "rift_mover_output_loop": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:block/rift_mover_output_loop",
+                "subtitle": "thaumicaugmentation.subtitle.rift_mover_output_loop",
+                "stream": false
+            }
+        ]
+    },
+    "altar_summon_start": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:block/altar_buildup",
+                "subtitle": "thaumicaugmentation.subtitle.altar_summon_start",
+                "stream": false
+            }
+        ]
+    },
+    "altar_summon": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:block/altar_hit",
+                "subtitle": "thaumicaugmentation.subtitle.altar_summon",
+                "stream": false
+            }
+        ]
+    },
+    "booster_start": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/booster_start1",
+                "subtitle": "thaumicaugmentation.subtitle.booster_start",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/booster_start2",
+                "subtitle": "thaumicaugmentation.subtitle.booster_start",
+                "stream": false
+            }
+        ]
+    },
+    "booster_end": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/booster_end1",
+                "subtitle": "thaumicaugmentation.subtitle.booster_end",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/booster_end2",
+                "subtitle": "thaumicaugmentation.subtitle.booster_end",
+                "stream": false
+            }
+        ]
+    },
+    "booster_loop": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/booster_loop",
+                "subtitle": "thaumicaugmentation.subtitle.booster_loop",
+                "stream": false
+            }
+        ]
+    },
+    "impulse_cannon_beam_start": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_beam_start1",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_beam_start",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_beam_start2",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_beam_start",
+                "stream": false
+            }
+        ]
+    },
+    "impulse_cannon_beam_end": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_beam_end1",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_beam_end",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_beam_end2",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_beam_end",
+                "stream": false
+            }
+        ]
+    },
+    "impulse_cannon_beam_loop": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_beam_loop",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_beam_loop",
+                "stream": false
+            }
+        ]
+    },
+    "impulse_cannon_burst": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_burst1",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_burst",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_burst2",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_burst",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_burst3",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_burst",
+                "stream": false
+            }
+        ]
+    },
+    "impulse_cannon_railgun": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_railgun1",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_railgun",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_railgun2",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_railgun",
+                "stream": false
+            },
+            {
+                "name": "thaumicaugmentation:item/impulse_cannon_railgun3",
+                "subtitle": "thaumicaugmentation.subtitle.impulse_cannon_railgun",
+                "stream": false
+            }
+        ]
+    }
+}

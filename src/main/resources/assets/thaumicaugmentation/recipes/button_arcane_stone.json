@@ -1,0 +1,13 @@
+{
+  "type": "thaumicaugmentation:arcane_shapeless",
+  "research": "MORE_MECHANISMS",
+  "vis": 5,
+  "ingredients": [
+    {
+      "item": "thaumcraft:stone_arcane"
+    }
+  ],
+  "result": {
+    "item": "thaumicaugmentation:button_arcane_stone"
+  }
+}

@@ -1,0 +1,62 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "thaumicaugmentation:arcane_terraformer.obj",
+        "custom": { "flip-v": true }
+    },
+    "variants": {
+        "ta_terraformer_half": {
+            "lower": {},
+            "upper": {}
+        },
+        "ta_enabled": {
+            "true": {
+                "submodel": {
+                    "focus": {
+                        "model": "thaumicaugmentation:arcane_terraformer_focus"
+                    }
+                }
+            },
+            "false": {}
+        },
+        "inventory": [{
+            "transform": {
+                "firstperson_righthand": {
+                    "rotation": [0, 45.0, 0],
+                    "translation": [0.0, 0.0, 0.0],
+                    "scale": [0.4, 0.4, 0.4]
+                },
+                "firstperson_lefthand": {
+                    "rotation": [0, 225.0, 0],
+                    "translation": [0.0, 0.0, 0.0],
+                    "scale": [0.4, 0.4, 0.4]
+                },
+                "thirdperson_righthand": {
+                    "rotation": [75.0, 45.0, 0],
+                    "translation": [0.0, 0.15625, 0.0],
+                    "scale": [0.375, 0.375, 0.375]
+                },
+                "thirdperson_lefthand": {
+                    "rotation": [75.0, 225.0, 0.0],
+                    "translation": [0.0, 0.15625, 0.0],
+                    "scale": [0.375, 0.375, 0.375]
+                },
+                "ground": {
+                    "rotation": [0.0, 0.0, 0.0],
+                    "translation": [0.0, 0.1875, 0.0],
+                    "scale": [0.25, 0.25, 0.25]
+                },
+                "gui": {
+                    "rotation": [30.0, 225.0, 0.0],
+                    "translation": [0.0, -0.1, 0.0],
+                    "scale": [0.55, 0.55, 0.55]
+                },
+                "fixed": {
+                    "rotation": [0.0, 0.0, 0.0],
+                    "translation": [0.0, 0.0, 0.0],
+                    "scale": [0.45, 0.45, 0.45]
+                }
+            }
+        }]
+    }
+}

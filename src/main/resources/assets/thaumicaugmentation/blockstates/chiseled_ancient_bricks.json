@@ -1,0 +1,51 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "minecraft:cube",
+        "transform": "forge:default-block",
+        "textures": {
+            "up": "thaumicaugmentation:blocks/ancient_bricks_smooth_1",
+            "west": "thaumicaugmentation:blocks/ancient_bricks_smooth_1",
+            "east": "thaumicaugmentation:blocks/ancient_bricks_smooth_2",
+            "north": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_1",
+            "south": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_2",
+            "down": "thaumicaugmentation:blocks/ancient_bricks_smooth_2",
+            "particle": "thaumicaugmentation:blocks/ancient_bricks_smooth_1"
+        }
+    },
+    "variants": {
+        "normal": [
+            {
+				"textures": {
+					"up": "thaumicaugmentation:blocks/ancient_bricks_smooth_1",
+					"west": "thaumicaugmentation:blocks/ancient_bricks_smooth_1",
+					"east": "thaumicaugmentation:blocks/ancient_bricks_smooth_2",
+					"north": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_1",
+					"south": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_2",
+					"down": "thaumicaugmentation:blocks/ancient_bricks_smooth_2"
+				}
+			},
+            {
+				"textures": {
+					"up": "thaumicaugmentation:blocks/ancient_bricks_smooth_2",
+					"west": "thaumicaugmentation:blocks/ancient_bricks_smooth_2",
+					"east": "thaumicaugmentation:blocks/ancient_bricks_smooth_3",
+					"north": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_2",
+					"south": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_3",
+					"down": "thaumicaugmentation:blocks/ancient_bricks_smooth_3"
+				}
+			},
+            {
+				"textures": {
+					"up": "thaumicaugmentation:blocks/ancient_bricks_smooth_1",
+					"west": "thaumicaugmentation:blocks/ancient_bricks_smooth_1",
+					"east": "thaumicaugmentation:blocks/ancient_bricks_smooth_3",
+					"north": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_1",
+					"south": "thaumicaugmentation:blocks/ancient_bricks_smooth_inverted_3",
+					"down": "thaumicaugmentation:blocks/ancient_bricks_smooth_3"
+				}
+			}
+        ],
+        "inventory": [{}]
+    }
+}

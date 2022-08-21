@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "thaumcraft:stone_ancient_tile",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thaumicaugmentation:stone",
+    "data": 9,
+    "count": 4
+  }
+}
+
